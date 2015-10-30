@@ -13,3 +13,6 @@ public class Test : MonoBehaviour {
 	
 	}
 }
+ 
+
+// Changing the script to test
